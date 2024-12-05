@@ -3,3 +3,6 @@
 *.js text eol=lf
 *.css text eol=lf
 *.md text eol=lf
+*.js binary
+*.css binary
+*.md binary
